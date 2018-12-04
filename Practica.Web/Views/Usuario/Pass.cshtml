@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Pass";
+}
+
+<div class="modal-body" id="mdContent">
+    <div class="box-header with-border">
+        <h3 class="box-title">Restablecer Contraseña</h3>
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-unlock"></i></span>
+        <input type="password" class="form-control" placeholder="Nueva Contraseña" id="password">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-unlock-alt"></i></span>
+        <input type="password" class="form-control" placeholder="Repetir contraseña" id="repetirPassword">
+    </div>
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancelar</button>
+        <button type="button" class="btn btn-primary" onclick="editarPassword()">Modificar</button>
+    </div>
+</div>
+
+

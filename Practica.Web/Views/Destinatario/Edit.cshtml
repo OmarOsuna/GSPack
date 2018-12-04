@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="modal-body" id="mdContent">
+    <input type="hidden" id="destinatario-id" value="@ViewBag.IdUsuario">
+
+    <h4 class="margin margin-bottom-none">Editar Destinatario</h4>
+
+    <div class="input-group margin margin-bottom-none">
+        <span class="input-group-addon"><i class="fa fa-user"></i></span>
+        <input type="text" class="form-control" placeholder="Nombre" id="nombreDestinatario">
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="input-group margin">
+                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                <input type="email" class="form-control" placeholder="Correo" id="correoDestinatario">
+            </div>
+        </div>
+
+        <div class="col-lg-6">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                <input type="text" class="form-control" placeholder="Telefono" id="telefonoDestinatario">
+            </div>
+        </div>
+    </div>
+
+    <h4 class="margin margin-bottom-none">Domicilio de Destinatario</h4>
+    <div class="row">
+        <div class="col-lg-9">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa-road"></i></span>
+                <input type="text" class="form-control" placeholder="Calle" id="calleDomicilioD">
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa-hashtag"></i></span>
+                <input type="text" class="form-control" placeholder="Numero" id="numeroDomicilioD">
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-lg-9">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa-road"></i></span>
+                <input type="text" class="form-control" placeholder="Avenida" id="avenidaDomicilioD">
+            </div>
+        </div>
+
+        <div class="col-lg-3">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa-qrcode"></i></span>
+                <input type="text" class="form-control" placeholder="Codigo Postal" id="cpDomicilioD">
+            </div>
+        </div>
+    </div>
+
+    <div class="input-group margin margin-bottom-none">
+        <span class="input-group-addon"><i class="fa fa-building"></i></span>
+        <input type="text" class="form-control" placeholder="Colonia" id="coloniaDomicilioD">
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa-university"></i></span>
+                <input type="text" class="form-control" placeholder="Estado" id="estadoDomicilioD">
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="input-group margin margin-bottom-none">
+                <span class="input-group-addon"><i class="fa fa fa-globe"></i></span>
+                <input type="text" class="form-control" placeholder="Ciudad" id="ciudadDomicilioD">
+            </div>
+        </div>
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+        <input type="text" class="form-control" placeholder="Referencia" id="referenciaDomicilioD">
+    </div>
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancelar</button>
+        <button type="button" class="btn btn-primary" onclick="editarDestinatario()">Guardar</button>
+    </div>
+</div>

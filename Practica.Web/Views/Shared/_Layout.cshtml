@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GS Pack</title>
+    <link href="@Url.Content("~/Content/css/bootstrap.min.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/font-awesome.min.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/dataTables.bootstrap.min.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/AdminLTE.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/_all-skins.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/sweetalert2.min.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/Tabs.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/daterangepicker.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/bootstrap-datepicker.min.css")" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">var baseUrl = "@Url.Content("~")"</script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.dataTables.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/dataTables.bootstrap.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.slimscroll.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/fastclick.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/adminlte.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/demo.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/usuario.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/sweetalert2.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.bootstrap.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/Tabs.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/daterangepicker.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/bootstrap-datepicker.min.js")"></script>
+
+</head>
+
+
+
+<body class="hold-transition skin-blue sidebar-mini">
+    <div class="wrapper">
+
+        <header class="main-header">
+            <a href="index2.html" class="logo">
+                <span class="logo-mini"><b>GSP</b></span>
+                <span class="logo-lg"><img src="~/Content/img/logoChico.png"></span>
+            </a>
+            <nav class="navbar navbar-static-top">
+                <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button"></a>
+                <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown user user-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <img src="~/Content/img/user1.jpg" class="user-image" alt="User Image">
+                                <span class="hidden-xs">@Request.Cookies["ckSolicitud"].Values["nombreUsuario"].ToString()</span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="user-header">
+                                    <img src="~/Content/img/user1.jpg" class="img-circle" alt="User Image">
+                                    <p>@Request.Cookies["ckSolicitud"].Values["nombreUsuario"].ToString()<small>@Request.Cookies["ckSolicitud"].Values["correoUsuario"].ToString()</small></p>
+                                </li>
+                                <li class="user-footer">                                    
+                                    <div class="pull-right">
+                                        <a href="@Url.Action("Logout","Home")" class="btn btn-default btn-flat">Salir</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+
+        <aside class="main-sidebar">
+            <section class="sidebar">
+                <div class="user-panel">
+                    <div class="pull-left image">
+                        <img src="~/Content/img/user1.jpg" class="img-circle" alt="User Image">
+                    </div>
+                    <div class="pull-left info">
+                        <p>@Request.Cookies["ckSolicitud"].Values["nombreUsuario"].ToString()</p>
+                        <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+                    </div>
+                </div>
+                <ul class="sidebar-menu" data-widget="tree">
+
+                    <li class="header">Menu de Navegación</li>
+
+                    @if (@Request.Cookies["ckSolicitud"].Values["perfilUsuario"].Equals("1"))
+                    {
+                    <li>
+                        <a href="@Url.Action("Index","Usuario")">
+                            <i class="fa fa-users" aria-hidden="true"></i> <span>Usuarios</span>
+                        </a>
+                    </li>
+                    }
+
+                    
+                    
+
+                    <li>
+                        <a href="@Url.Action("Index","Cliente")">
+                            <i class="fa fa-user" aria-hidden="true"></i> <span>Clientes</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index","Orden")">
+                            <i class="fa fa-archive"></i> <span>Paqueteria</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+
+        @RenderBody()
+
+        <footer class="main-footer">
+            <div class="pull-right hidden-xs"></div>
+            <strong>Copyright &copy; 2018-2019 <a href="https://adminlte.io">GS Pack</a>.</strong> Todos los derechos reservados.
+        </footer>
+    </div>
+</body>
+
+</html>

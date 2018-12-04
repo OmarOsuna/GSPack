@@ -1,0 +1,264 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="modal-body" id="mdContent">
+    <section>
+        <div class="wizard">
+
+            <!--Barra de Procesos-->
+            <div class="wizard-inner">
+                <div class="connecting-line"></div>
+                <ul class="nav nav-tabs" role="tablist">
+
+                    <li role="presentation" class="active">
+                        <a href="#step1" data-toggle="tab" aria-controls="step1" role="tab" title="Remitente">
+                            <span class="round-tab">
+                                <i class="fa fa-user"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#step2" data-toggle="tab" aria-controls="step2" role="tab" title="Destinatario">
+                            <span class="round-tab">
+                                <i class="fa fa-id-badge"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#step3" data-toggle="tab" aria-controls="step3" role="tab" title="Paquete">
+                            <span class="round-tab">
+                                <i class="fa fa-envelope"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#complete" data-toggle="tab" aria-controls="complete" role="tab" title="Complete">
+                            <span class="round-tab">
+                                <i class="glyphicon glyphicon-ok"></i>
+                            </span>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+
+
+            <form role="form">
+                <div class="tab-content">
+
+                    <!--Formulario de Remitente-->
+                    <div class="tab-pane active" role="tabpanel" id="step1">
+                        <h4 class="margin">Datos del Remitente</h4>
+                        <input type="hidden" id="remitente-id" value="@ViewBag.IdUsuario">
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input type="text" class="form-control" placeholder="Nombre" id="nombreRemitente">
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-lg-4">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono 1 (Obligatorio)" id="telefonoUnoRemitente">
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-4">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono 2 (Opcional)" id="telefonoDosRemitente">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono 3 (Opcional)" id="telefonoTresRemitente">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input type="email" class="form-control" placeholder="Correo" id="correoRemitente">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-qrcode"></i></span>
+                            <input type="text" class="form-control" placeholder="RFC" id="rfcRemitente">
+                        </div>
+                    </div>
+
+
+
+                    <!--Formulario de Destinatario-->
+                    <div class="tab-pane" role="tabpanel" id="step2">
+                        <h4 class="margin">Datos del Destinatario</h4>
+                        <input type="hidden" id="usuario-id" value="@ViewBag.IdUsuario">
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input type="text" class="form-control" placeholder="Nombre" id="nombreDestinatario">
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono" id="telefonoDestinatario">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="input-group margin">
+                                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                    <input type="email" class="form-control" placeholder="Correo" id="correoDestinatario">
+                                </div>
+                            </div>
+                        </div>
+
+                        <br />
+
+
+
+                        <h4 class="margin">Domicilio Destinatario</h4>
+                        <div class="row">
+                            <div class="col-lg-9">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-road"></i></span>
+                                    <input type="text" class="form-control" placeholder="Calle" id="calleDomicilioD">
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-hashtag"></i></span>
+                                    <input type="text" class="form-control" placeholder="Numero" id="numeroDomicilioD">
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-9">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-road"></i></span>
+                                    <input type="text" class="form-control" placeholder="Avenida" id="avenidaDomicilioD">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-qrcode"></i></span>
+                                    <input type="text" class="form-control" placeholder="Codigo Postal" id="cpDomicilioD">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-building"></i></span>
+                            <input type="text" class="form-control" placeholder="Colonia" id="coloniaDomicilioD">
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-university"></i></span>
+                                    <input type="text" class="form-control" placeholder="Estado" id="estadoDomicilioD">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa fa-globe"></i></span>
+                                    <input type="text" class="form-control" placeholder="Ciudad" id="ciudadDomicilioD">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+                            <input type="text" class="form-control" placeholder="Referencia" id="referenciaDomicilioD">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+                            <input type="text" class="form-control" placeholder="Destinatario Dos" id="destinatarioDos">
+                        </div>
+
+                    </div>
+
+
+                    <!--Formulario de Paquete-->
+                    <div class="tab-pane" role="tabpanel" id="step3">
+                        <h4 class="margin">Datos del Paquete</h4>
+                        <input type="hidden" id="usuario-id" value="@ViewBag.IdUsuario">
+
+                        <div class="form-group margin">
+                            <select class="form-control select2" style="width: 100%;" id="tipoPaquete">
+                                <option value="sobre" selected="selected">Sobre</option>
+                                <option value="bolsa">Bolsa</option>
+                                <option value="caja">Caja</option>
+                            </select>
+                        </div>
+
+
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-balance-scale"></i></span>
+                            <input type="text" class="form-control" placeholder="Peso" id="pesoPaquete">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-arrows-h"></i></span>
+                            <input type="email" class="form-control" placeholder="Tamaño(cm)" id="tamanoPaquete">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+                            <input type="text" class="form-control" placeholder="Descripcion" id="descripcionPaquete">
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="tab-pane" role="tabpanel" id="complete">
+                        <div class="form-group margin">
+                            <div class="input-group date">
+                                <div class="input-group-addon">
+                                    <i class="fa fa-calendar"></i>
+                                </div>
+                                <input type="text" data-date-format='yy-mm-dd' class="form-control pull-right" id="fechaEntrega" name="fecha_evento" placeholder="Fecha de Entrega">
+                            </div>
+                        </div>
+
+
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-usd"></i></span>
+                            <input type="text" class="form-control" placeholder="Precio" id="precioPaquete">
+                        </div>                       
+                        <br />
+
+                        <ul class="list-inline pull-right margin">
+                            <li><button type="button" onclick="editarOrden()" class="btn btn-primary next-step">Editar Orden</button></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </form>
+        </div>
+    </section>
+</div>
+
+<script>
+    $('#fechaEntrega').datepicker({
+        autoclose: true
+    })
+</script>
+

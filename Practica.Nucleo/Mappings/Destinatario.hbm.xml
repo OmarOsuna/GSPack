@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Practica.Nucleo.Entidades.Destinatario, Practica.Nucleo"
+         table="destinatario" lazy="false">
+
+    <id name="Id" type="int">
+      <column name="id" />
+      <generator class="identity" />
+    </id>
+
+    <property name="Nombre" type="string">
+      <column name="nombre" />
+    </property>
+
+    <many-to-one name="Domicilio" cascade="all-delete-orphan" class="Practica.Nucleo.Entidades.Domicilio, Practica.Nucleo">
+      <column name="iddomicilio" />
+    </many-to-one>    
+
+    <property name="Telefono" type="string">
+      <column name="telefono" />
+    </property>
+
+    <property name="Correo" type="string">
+      <column name="correo" />
+    </property>    
+    
+  </class>
+</hibernate-mapping>

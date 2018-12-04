@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="modal-body" id="mdContentStatus">
+
+    <div class="box-header with-border">
+        <h4 class="box-title">Editar Estatus</h4>
+    </div>
+    <input type="text" hidden id="idStatus" />
+
+    <div id="map" style="width:100%; height:400px; background: black;"></div>
+
+    <div class="form-group margin">
+        <select class="form-control select2" style="width: 100%;" id="tipoStatus">
+            <option value="1" selected="selected">Pendiente</option>
+            <option value="2">Entregado</option>
+            <option value="3">Cancelado</option>
+        </select>
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+        <input type="text" class="form-control" placeholder="Descripción" id="descripcionStatus">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-university"></i></span>
+        <input type="email" class="form-control" placeholder="Estado" id="estadoStatus">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-globe"></i></span>
+        <input type="text" class="form-control" placeholder="Ciudad" id="ciudadStatus">
+    </div>
+
+    <input hidden type="text" id="longitudStatus">
+    <input hidden type="text" id="latitudStatus">
+
+    <style>
+        .pac-container {
+            z-index: 99999;
+        }
+    </style>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-primary" onclick="editarStatus()">Editar</button>
+    </div>
+
+</div>
+
+
+

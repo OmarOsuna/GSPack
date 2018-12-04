@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html>
+@{
+    Layout = "";
+}
+<html>
+<head>
+    <title>GS Pack</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/png" href="@Url.Content("~/Content/img/logoChico.png")" />
+
+    <script type="text/javascript">var baseUrl = "@Url.Content("~")"</script>
+
+    <link href="@Url.Content("~/Content/css/principal.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/css/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/css/style.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/css/font-awesome.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/css/AdminLTE.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/dataTables.bootstrap.min.css")" rel="stylesheet" type="text/css">
+    <link href="@Url.Content("~/Content/css/sweetalert2.min.css")" rel="stylesheet" type="text/css">
+
+    
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.dataTables.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/dataTables.bootstrap.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.bootstrap.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/sweetalert2.min.js")"></script>   
+
+    <script src="~/Scripts/home.js"></script>
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><img src="~/Content/img/logoCh.png"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse-main">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a class="active" href="#">Inicio</a></li>
+                    <li><a href="#nosotros">Nosotros</a></li>
+                    <li><a href="#servicios">Servicios</a></li>
+                    <li><a href="#envios">Envios</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div id="home">
+        <div class="landing-text">
+            <h1>Bienvenido a GS Pack</h1>
+            <h3>Te llega porque te llega!</h3>
+            <br />
+            <input type="text" id="idRastreo" placeholder="ID DE RASTREO">
+            <br />
+            <br />
+            <a onclick="existe()" class="btn btn btn-warning btn-lg"><b>RASTREAR</b></a>
+        </div>
+    </div>
+
+
+
+    <div id="nosotros" class="padding-nosotros">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <img class="img-nosotros" src="~/Content/img/caja.jpg">
+                </div>
+                <div class="col-sm-6 text-center">
+                    <h2><b>Acerca de Nosotros</b></h2>
+                    <br>
+                    <p class="lead">GS Pack es una empresa de paqueteria con sede principal en Guaymas Sonora. Elijenos para entregar tus envios importantes y urgentes  de la manera mas rapida dentro del pais, GS Pack tiene el servicio a la medida de tus necesidades, te aseguramos quedar mas que satisfecho con nuestros servicios.</p>
+                    <p class="lead">La empresa fue fundada en 2018, por un equipo de estudiantes de Ingenieria en Software de Itson, fue creada con el proposito de ofrecer un servicio de paqueteria express de excelencia.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="fixed">
+
+    </div>
+
+
+    <div id="envios" class="padding-envios acerca-nosotros">
+        <div class="container">
+            <p class="encabezado"><b>Tipos de Envios</b></p>
+            <div class="row">
+                <br>
+                <br>
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12">
+                    <br>
+                    <img src="~/Content/img/bolsa.png" class="img-responsive img-servicio">
+                </div>
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12">
+                    <br>
+                    <img src="~/Content/img/sobre.png" class="img-responsive img-servicio">
+                </div>
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12">
+                    <br>
+                    <img src="~/Content/img/paquete.png" class="img-responsive img-servicio">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="fixed">
+
+    </div>
+
+
+    <div id="servicios" class="padding-nosotros acerca-envios">
+
+        <div class="container">
+            <p class="encabezado"><b>Nuestros Servicios</b></p>
+            <div class="row">
+
+                <br>
+                <br>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <b><h4 class="encabezado-servicio">Visita nuestras sucursales</h4></b>
+                    <br>
+                    <img src="~/Content/img/lugar.png" class="img-responsive img-servicio">
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <b><h4 class="encabezado-servicio">Pregunta por nuestras tarifas </h4></b>
+                    <br>
+                    <img src="~/Content/img/tarifa.png" class="img-responsive img-servicio">
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <b><h4 class="encabezado-servicio">Registra tu orden</h4></b>
+                    <br>
+                    <img src="~/Content/img/registrar.png" class="img-responsive img-servicio">
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <b><h4 class="encabezado-servicio">Y espera...</h4></b>
+                    <br>
+                    <img src="~/Content/img/esperar.png" class="img-responsive img-servicio">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <footer id="contacto" class="container-fluid text-center">
+        <div class="row">
+            <div class="col-sm-4">
+                <h3>Contacto</h3>
+                <br>
+                <h4>Telefono: 01 622 152 2059</h4>
+                <h4>Correo: GSpack@gmail.com</h4>
+            </div>
+            <div class="col-sm-4">
+                <h3>Redes Sociales</h3>
+                <a style="color: #f9cb2e; padding: 15px; font-size: 25px; color: #FFF; text-decoration: none;" class="fa fa-facebook"></a>
+                <a style="color: #f9cb2e; padding: 15px; font-size: 25px; color: #FFF; text-decoration: none;" class="fa fa-twitter"></a>
+                <a style="color: #f9cb2e; padding: 15px; font-size: 25px; color: #FFF; text-decoration: none;" class="fa fa-youtube"></a>
+                <a style="color: #f9cb2e; padding: 15px; font-size: 25px; color: #FFF; text-decoration: none;" class="fa fa-linkedin"></a>
+                <a style="color: #f9cb2e; padding: 15px; font-size: 25px; color: #FFF; text-decoration: none;" class="fa fa-instagram"></a>
+            </div>
+            <div class="col-sm-4">
+                <h3>Dirección</h3>
+                <br>
+                <h4>Av. Riojas 635, Centro, 85400 Heroica Guaymas, Son.</h4>
+            </div>
+        </div>
+        <br>
+        <br>
+        <p class="copyright">Todos Los derechos Reservados por © GS Pack 2018</p>
+    </footer>
+
+    <div class="modal fade" id="mdMain">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title">Historial de Transporte</h4>
+                </div>
+                <div id="mdContent">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
+

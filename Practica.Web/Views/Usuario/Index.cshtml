@@ -1,0 +1,59 @@
+﻿
+<script src="~/Scripts/usuario.js"></script>
+
+<div class="content-wrapper">
+
+    <section class="content-header">
+        <h1>
+            Gestión de Usuarios
+        </h1>
+    </section>
+
+    <section class="content">
+        <a onclick="add()" class="btn bg-blue"><i class="fa fa-user-plus"></i> Agregar</a>
+        <a onclick="eliminar()" class="btn bg-maroon"><i class="fa fa-trash"></i> Eliminar</a>
+        <a onclick="edit()" class="btn bg-green"><i class="fa fa-pencil"></i> Editar</a>
+        <a onclick="pass()" class="btn bg-orange"><i class="fa fa-unlock-alt"></i> Restablecer Contraseña</a>
+        <div class="row">
+            <br />
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-body">
+                        <table id="tabla-usuarios" class="table table-bordered table-striped datatable-selection-single">
+                            <thead>
+                                <tr>
+                                    <th id="ide" hidden>Id</th>
+                                    <th>Nombre</th>
+                                    <th>Correo</th>
+                                    <th>Cuenta</th>
+                                    <th>Rol</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+<div class="modal fade" id="mdMain">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Usuario</h4>
+            </div>
+            <div id="mdContent">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

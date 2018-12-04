@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Practica.Nucleo.Entidades.Orden, Practica.Nucleo"
+         table="orden" lazy="false">
+
+    <id name="Id" type="int">
+      <column name="id" />
+      <generator class="identity" />
+    </id>
+
+    <property name="Folio" type="string">
+      <column name="folio" />
+    </property>
+
+    <property name="NumeroFolio" type="int">
+      <column name="numeroFolio" />
+    </property>
+    
+    <property name="FechaSalida" type="DateTime">
+      <column name="fechasalida" />
+    </property>
+
+    <property name="HoraSalida" type="DateTime">
+      <column name="horasalida" />
+    </property>
+
+    <property name="FechaEntrega" type="DateTime">
+      <column name="fechaentrega" />
+    </property>
+
+    <many-to-one name="Cliente" cascade="all-delete-orphan" class="Practica.Nucleo.Entidades.Cliente, Practica.Nucleo">
+      <column name="idcliente" />
+    </many-to-one>
+
+    <many-to-one name="Destinatario" cascade="all-delete-orphan" class="Practica.Nucleo.Entidades.Destinatario, Practica.Nucleo">
+      <column name="iddestinatario" />
+    </many-to-one>
+
+    <many-to-one name="Empleado" cascade="all-delete-orphan" class="Practica.Nucleo.Entidades.Usuario, Practica.Nucleo">
+      <column name="idempleado" />
+    </many-to-one>
+
+    <many-to-one name="Paquete" cascade="all-delete-orphan" class="Practica.Nucleo.Entidades.Paquete, Practica.Nucleo">
+      <column name="idpaquete" />
+    </many-to-one>
+
+    <property name="Precio" type="string">
+      <column name="precio" />
+    </property>
+
+    <bag name="Estatus" cascade="all-delete-orphan" lazy="false">
+      <key column="idorden" />
+      <one-to-many class="Practica.Nucleo.Entidades.Estatu, Practica.Nucleo"/>
+    </bag>
+
+    <property name="DestinatarioDos" type="string">
+      <column name="destinatariodos" />
+    </property>
+    
+  </class>
+</hibernate-mapping>

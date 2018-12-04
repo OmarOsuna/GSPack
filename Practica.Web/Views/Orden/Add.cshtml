@@ -1,0 +1,452 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+}
+
+<div class="modal-body" id="mdContent">
+    <section>
+        <div class="wizard">
+
+            <style>
+                #resultRemitente {
+                    position: absolute;
+                    width: 150%;
+                    max-width: 870px;
+                    cursor: pointer;
+                    overflow-y: auto;
+                    max-height: 400px;
+                    box-sizing: border-box;
+                    z-index: 1001;                   
+                }
+
+                #resultDestinatario {
+                    position: absolute;
+                    width: 150%;
+                    max-width: 870px;
+                    cursor: pointer;
+                    overflow-y: auto;
+                    max-height: 400px;
+                    box-sizing: border-box;
+                    z-index: 1001;
+                }
+
+                .link-class:hover {
+                    background-color: #f1f1f1;
+                }
+            </style>
+
+            <!--Barra de Procesos-->
+            <div class="wizard-inner">
+                <div class="connecting-line"></div>
+                <ul class="nav nav-tabs" role="tablist">
+
+                    <li role="presentation" class="active">
+                        <a href="#step1" data-toggle="tab" aria-controls="step1" role="tab" title="Remitente">
+                            <span class="round-tab">
+                                <i class="fa fa-user"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#step2" data-toggle="tab" aria-controls="step2" role="tab" title="Destinatario">
+                            <span class="round-tab">
+                                <i class="fa fa-id-badge"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#step3" data-toggle="tab" aria-controls="step3" role="tab" title="Paquete">
+                            <span class="round-tab">
+                                <i class="fa fa-envelope"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#complete" data-toggle="tab" aria-controls="complete" role="tab" title="Completar">
+                            <span class="round-tab">
+                                <i class="glyphicon glyphicon-ok"></i>
+                            </span>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+
+
+
+            <form role="form">
+                <div class="tab-content">
+
+                    <!--Formulario de Remitente-->
+                    <div class="tab-pane active" role="tabpanel" id="step1">
+
+
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div align="center">
+                                    <div class="input-group margin margin-bottom-none">
+                                        <input hidden id="idRemitente" />
+                                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                                        <input type="text" name="searchRemitente" id="searchRemitente" placeholder="Buscar Remitente" class="form-control" />
+                                    </div>
+                                    
+                                </div>
+                                <ul  class="list-group" id="resultRemitente"></ul>
+                            </div>
+                        </div>
+
+                        <ul class="list-group" id="result"></ul>
+
+                        <h4 class="margin">Datos del Remitente</h4>
+                        <input type="hidden" id="remitente-id" value="@ViewBag.IdUsuario">
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input type="text" class="form-control" placeholder="Nombre" id="nombreRemitente">
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-lg-4">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono 1 (Obligatorio)" id="telefonoUnoRemitente">
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-4">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono 2 (Opcional)" id="telefonoDosRemitente">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono 3 (Opcional)" id="telefonoTresRemitente">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input type="email" class="form-control" placeholder="Correo" id="correoRemitente">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-qrcode"></i></span>
+                            <input type="text" class="form-control" placeholder="RFC" id="rfcRemitente">
+                        </div>
+                    </div>
+
+
+
+                    <!--Formulario de Destinatario-->
+                    <div class="tab-pane" role="tabpanel" id="step2">
+
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div align="center">
+                                    <div class="input-group margin margin-bottom-none">
+                                        <input hidden id="idDestinatario" />
+                                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                                        <input type="text" name="searchDestinatario" id="searchDestinatario" placeholder="Buscar Destinatario" class="form-control" />
+                                    </div>
+
+                                </div>
+                                <ul class="list-group" id="resultDestinatario"></ul>
+                            </div>
+                        </div>
+
+                        <h4 class="margin">Datos del Destinatario</h4>
+                        <input type="hidden" id="usuario-id" value="@ViewBag.IdUsuario">
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input type="text" class="form-control" placeholder="Nombre" id="nombreDestinatario">
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="form-control" placeholder="Telefono" id="telefonoDestinatario">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="input-group margin">
+                                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                    <input type="email" class="form-control" placeholder="Correo" id="correoDestinatario">
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <h4 class="margin margin-bottom-none">Domicilio Destinatario</h4>
+                        <div class="row">
+                            <div class="col-lg-9">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-road"></i></span>
+                                    <input type="text" class="form-control" placeholder="Calle" id="calleDomicilioD">
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-hashtag"></i></span>
+                                    <input type="text" class="form-control" placeholder="Numero" id="numeroDomicilioD">
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-9">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-road"></i></span>
+                                    <input type="text" class="form-control" placeholder="Avenida" id="avenidaDomicilioD">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-qrcode"></i></span>
+                                    <input type="text" class="form-control" placeholder="Codigo Postal" id="cpDomicilioD">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-building"></i></span>
+                            <input type="text" class="form-control" placeholder="Colonia" id="coloniaDomicilioD">
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-university"></i></span>
+                                    <input type="text" class="form-control" placeholder="Estado" id="estadoDomicilioD">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="input-group margin margin-bottom-none">
+                                    <span class="input-group-addon"><i class="fa fa-globe"></i></span>
+                                    <input type="text" class="form-control" placeholder="Ciudad" id="ciudadDomicilioD">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+                            <input type="text" class="form-control" placeholder="Referencia" id="referenciaDomicilioD">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+                            <input type="text" class="form-control" placeholder="Persona que puede recoger el paquete" id="destinatarioDos">
+                        </div>
+
+                    </div>
+
+
+                    <!--Formulario de Paquete-->
+                    <div class="tab-pane" role="tabpanel" id="step3">
+                        <h4 class="margin">Datos del Paquete</h4>
+                        <input type="hidden" id="usuario-id" value="@ViewBag.IdUsuario">
+
+                        <div class="form-group margin">
+                            <select class="form-control select2" style="width: 100%;" id="tipoPaquete">
+                                <option value="sobre" selected="selected">Sobre</option>
+                                <option value="bolsa">Bolsa</option>
+                                <option value="caja">Caja</option>
+                            </select>
+                        </div>
+
+
+
+                        <div class="input-group margin margin-bottom-none">
+                            <span class="input-group-addon"><i class="fa fa-balance-scale"></i></span>
+                            <input type="text" class="form-control" placeholder="Peso" id="pesoPaquete">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-arrows-h"></i></span>
+                            <input type="email" class="form-control" placeholder="Tamaño(cm)" id="tamanoPaquete">
+                        </div>
+
+                        <div class="input-group margin">
+                            <span class="input-group-addon"><i class="fa fa-list-alt"></i></span>
+                            <input type="text" class="form-control" placeholder="Descripcion" id="descripcionPaquete">
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="tab-pane" role="tabpanel" id="complete">
+
+                        <h4 class="margin">Completar Orden</h4>
+
+                        <div class="form-group margin">
+                            <div class="input-group date">
+                                <div class="input-group-addon">
+                                    <i class="fa fa-calendar"></i>
+                                </div>
+                                <input type="text" data-date-format='yy-mm-dd' class="form-control pull-right" id="fechaEntrega" name="fecha_evento" placeholder="Fecha de Entrega">
+                            </div>
+                        </div>
+
+
+
+                        <div class="input-group margin m-l-1">
+                            <span class="input-group-addon"><i class="fa fa-usd"></i></span>
+                            <input type="text" class="form-control" placeholder="Precio" id="precioPaquete">
+                        </div>
+
+                        <br />
+
+                        <ul class="list-inline pull-right margin">
+                            <li><button type="button" onclick="guardarOrden()" class="btn btn-primary next-step">Completar Orden</button></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </form>
+        </div>
+    </section>
+</div>
+
+<script>
+    $('#fechaEntrega').datepicker({
+        autoclose: true
+    })
+
+    $(document).ready(function () {
+        $('#searchRemitente').keyup(function () {
+            $('#resultRemitente').html('');
+            $('#state').val('');
+            var searchField = $('#searchRemitente').val();
+            var expression = new RegExp(searchField, "i");
+
+            $.ajax({
+                url: baseUrl + "Cliente/ObtenerTodos",
+                cache: false,
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    $.each(data, function (key, value) {
+                        $.each(value, function (key, remi) {
+                            if (remi.Nombre.search(expression) != -1 || remi.Correo.search(expression) != -1) {
+                                if ($('#searchRemitente').val() != "") {
+                                    $('#resultRemitente').append('<li class="list-group-item link-class list-group-item-info">' + remi.Nombre + ' | <span class="text-muted">' + remi.Correo + '</span><span hidden class="text-muted"> |' + remi.Id + '</span></li>');
+                                    $('#nombreRemitente').val("").prop('disabled', false);
+                                    $('#correoRemitente').val("").prop('disabled', false);
+                                    $('#rfcRemitente').val("").prop('disabled', false);
+                                    $('#telefonoUnoRemitente').val("").prop('disabled', false);
+                                    $('#telefonoDosRemitente').val("").prop('disabled', false);
+                                    $('#telefonoTresRemitente').val("").prop('disabled', false);
+                                    $('#idRemitente').val("").prop('disabled', false);
+
+                                }
+                                
+                                
+                            }
+                        });  
+                    });
+                }
+            });
+
+
+
+        });
+
+
+        $('#searchDestinatario').keyup(function () {
+            $('#resultDestinatario').html('');
+            $('#state').val('');
+            var searchField = $('#searchDestinatario').val();
+            var expression = new RegExp(searchField, "i");
+
+            $.ajax({
+                url: baseUrl + "Destinatario/ObtenerTodos",
+                cache: false,
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    $.each(data, function (key, value) {
+                        $.each(value, function (key, desti) {
+                            if (desti.Nombre.search(expression) != -1 || desti.Correo.search(expression) != -1) {
+                                if ($('#searchDestinatario').val() != "") {
+                                    $('#resultDestinatario').append('<li class="list-group-item link-class list-group-item-info">' + desti.Nombre + ' | <span class="text-muted">' + desti.Correo + '</span><span hidden class="text-muted"> |' + desti.Id + '</span></li>');
+                                    $('#nombreDestinatario').val("").prop('disabled', false);
+                                    $('#telefonoDestinatario').val("").prop('disabled', false);
+                                    $('#correoDestinatario').val("").prop('disabled', false);
+                                    $('#calleDomicilioD').val("").prop('disabled', false);
+                                    $('#numeroDomicilioD').val("").prop('disabled', false);
+                                    $('#avenidaDomicilioD').val("").prop('disabled', false);
+                                    $('#cpDomicilioD').val("").prop('disabled', false);
+                                    $('#coloniaDomicilioD').val("").prop('disabled', false);
+                                    $('#estadoDomicilioD').val("").prop('disabled', false);
+                                    $('#estadoDomicilioD').val("").prop('disabled', false);
+                                    $('#referenciaDomicilioD').val("").prop('disabled', false);
+
+                                }
+
+
+                            }
+                        });
+                    });
+                }
+            });
+
+
+
+        });
+
+
+
+
+        $('#resultRemitente').on('click', 'li', function () {
+            var click_text = $(this).text().split('|');
+            $('#searchRemitente').val($.trim(click_text[0]));
+            loadRemitente(click_text[2])
+            $('#idRemitente').val(click_text[2]);
+            $('#nombreRemitente').prop('disabled', true);
+            $('#correoRemitente').prop('disabled', true);
+            $('#rfcRemitente').prop('disabled', true);
+            $('#telefonoUnoRemitente').prop('disabled', true);
+            $('#telefonoDosRemitente').prop('disabled', true);
+            $('#telefonoTresRemitente').prop('disabled', true);
+
+            $("#resultRemitente").html('');            
+        });
+
+
+
+        $('#resultDestinatario').on('click', 'li', function () {
+            var click_text = $(this).text().split('|');
+            $('#searchDestinatario').val($.trim(click_text[0]));
+            loadDestinatario(click_text[2])
+            $('#idDestinatario').val(click_text[2]);
+            $('#nombreDestinatario').prop('disabled', true);
+            $('#telefonoDestinatario').prop('disabled', true);
+            $('#correoDestinatario').prop('disabled', true);
+            $('#calleDomicilioD').prop('disabled', true);
+            $('#numeroDomicilioD').prop('disabled', true);
+            $('#avenidaDomicilioD').prop('disabled', true);
+            $('#cpDomicilioD').prop('disabled', true);
+            $('#coloniaDomicilioD').prop('disabled', true);
+            $('#estadoDomicilioD').prop('disabled', true);
+            $('#ciudadDomicilioD').prop('disabled', true);
+            $('#referenciaDomicilioD').prop('disabled', true);
+
+            $("#resultDestinatario").html('');
+        });
+
+    });
+
+</script>
+
+

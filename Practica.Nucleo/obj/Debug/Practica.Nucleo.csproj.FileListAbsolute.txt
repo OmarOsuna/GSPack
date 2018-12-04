@@ -1,0 +1,61 @@
+C:\Users\Public\Documents\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.dll
+C:\Users\Public\Documents\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.pdb
+C:\Users\Public\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.dll
+C:\Users\Public\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.pdb
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.pdb
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csprojAssemblyReference.cache
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.pdb
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\bin\Debug\Mappings\Usuario.hbm.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.pdb
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\bin\Debug\Iesi.Collections.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\bin\Debug\log4net.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\bin\Debug\NHibernate.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CopyComplete
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.pdb
+C:\Users\jesusmario\Documents\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csprojAssemblyReference.cache
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\bin\Debug\Mappings\Usuario.hbm.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.pdb
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\bin\Debug\Iesi.Collections.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\bin\Debug\log4net.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\bin\Debug\NHibernate.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\Mappings\Usuario.hbm.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\Iesi.Collections.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\log4net.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\NHibernate.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Nucleo\bin\Debug\MySql.Data.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Usuario.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Cliente.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Destinatario.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Domicilio.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Estatu.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Orden.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Mappings\Paquete.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Practica.Nucleo.pdb
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\MySql.Data.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\Google.Protobuf.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\bin\Debug\MySql.Data.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csprojAssemblyReference.cache
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.csproj.CopyComplete
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Debug\Practica.Nucleo.pdb

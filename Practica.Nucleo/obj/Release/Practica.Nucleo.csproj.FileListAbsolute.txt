@@ -1,0 +1,2 @@
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Release\Practica.Nucleo.csprojAssemblyReference.cache
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Nucleo\obj\Release\Practica.Nucleo.csproj.CoreCompileInputs.cache

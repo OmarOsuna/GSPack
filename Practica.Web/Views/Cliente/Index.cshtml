@@ -1,0 +1,92 @@
+﻿<script src="~/Scripts/cliente.js"></script>
+
+
+<div class="content-wrapper">
+
+    <section class="content-header">
+
+        <h1>
+            Gestión de Remitentes
+        </h1>
+
+    </section>
+
+    <section class="content">
+        <a onclick="addRemitente()" class="btn bg-blue"><i class="fa fa-user-plus"></i> Agregar</a>
+        <a onclick="eliminarRemitente()" class="btn bg-maroon"><i class="fa fa-trash"></i> Eliminar</a>
+        <a onclick="editRemitente()" class="btn bg-green"><i class="fa fa-pencil"></i> Editar</a>
+        <div class="row">
+            <br />
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-body">
+                        <table id="tabla-remitentes" class="table table-bordered table-striped datatable-selection-single">
+                            <thead>
+                                <tr>
+                                    <th id="ide" hidden>Id</th>
+                                    <th>Nombre</th>
+                                    <th>Correo</th>
+                                    <th>Telefono</th>
+                                    <th>RFC</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="content-header">
+
+        <h1>
+            Gestión de Destinatarios
+        </h1>
+
+    </section>
+
+    <section class="content">
+        <a onclick="addDestinatario()" class="btn bg-blue"><i class="fa fa-user-plus"></i> Agregar</a>
+        <a onclick="eliminarDestinatario()" class="btn bg-maroon"><i class="fa fa-trash"></i> Eliminar</a>
+        <a onclick="editDestinatario()" class="btn bg-green"><i class="fa fa-pencil"></i> Editar</a>
+        <div class="row">
+            <br />
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-body">
+                        <table id="tabla-destinatarios" class="table table-bordered table-striped datatable-selection-single">
+                            <thead>
+                                <tr>
+                                    <th id="ide" hidden>Id</th>
+                                    <th>Nombre</th>
+                                    <th>Domicilio</th>
+                                    <th>Telefono</th>
+                                    <th>Correo</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<div class="modal fade" id="mdMain">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Cliente</h4>
+            </div>
+            <div id="mdContent">
+            </div>
+        </div>
+    </div>
+</div>
+
+

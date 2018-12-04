@@ -1,0 +1,51 @@
+﻿
+
+@{
+    ViewBag.Title = "Add";
+}
+
+<div class="modal-body" id="mdContent">
+    <input type="hidden" id="remitente-id" value="@ViewBag.IdUsuario">
+
+    <h4 class="margin">Agregar Remitente</h4>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-user"></i></span>
+        <input type="text" class="form-control" placeholder="Nombre" id="nombreRemitente">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+        <input type="email" class="form-control" placeholder="Telefono Uno (Obligatorio)" id="telefonoUnoRemitente">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+        <input type="text" class="form-control" placeholder="Telefono Dos (Opcional)" id="telefonoDosRemitente">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+        <input type="text" class="form-control" placeholder="Telefono Dos (Opcional)" id="telefonoTresRemitente">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+        <input type="email" class="form-control" placeholder="Correo" id="correoRemitente">
+    </div>
+
+    <div class="input-group margin">
+        <span class="input-group-addon"><i class="fa fa-qrcode"></i></span>
+        <input type="email" class="form-control" placeholder="RFC" id="rfcRemitente">
+    </div>
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Cancelar</button>
+        <button type="button" class="btn btn-primary" onclick="guardarRemitente()">Guardar</button>
+    </div>
+
+</div>
+
+
+
+

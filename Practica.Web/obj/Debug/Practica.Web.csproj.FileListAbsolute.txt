@@ -1,0 +1,718 @@
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\obj\Debug\Practica.Web.csprojAssemblyReference.cache
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CopyComplete
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\jesusmario\source\repos\Practica\Practica.Web\obj\Debug\Practica.Web.pdb
+C:\Users\Public\Documents\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Public\Documents\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Public\Documents\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Public\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CopyComplete
+C:\Users\Public\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\Public\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.pdb
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CopyComplete
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.pdb
+C:\Users\jesusmario\Documents\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.csprojAssemblyReference.cache
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Mappings\Usuario.hbm.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Practica.Nucleo.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\log4net.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\NHibernate.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Iesi.Collections.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Practica.Nucleo.pdb
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.csprojAssemblyReference.cache
+C:\Users\jesusmario\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CopyComplete
+C:\Users\jesusmario\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\jesusmario\Documents\Practica\Practica.Web\obj\Debug\Practica.Web.pdb
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Mappings\Usuario.hbm.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Practica.Nucleo.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\log4net.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\NHibernate.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Iesi.Collections.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Practica.Nucleo.pdb
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\Ignacio\source\repos\Practica\Practica\Practica.Web\obj\Debug\Practica.Web.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Mappings\Usuario.hbm.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Practica.Nucleo.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\log4net.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\NHibernate.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Iesi.Collections.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Practica.Nucleo.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\obj\Debug\Practica.Web.csprojResolveAssemblyReference.cache
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\obj\Debug\Practica.Web.pdb
+C:\Users\Victor Portillo\source\repos\Clase\Practica\Practica.Web\bin\MySql.Data.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\ApplicationInsights.config
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Usuario.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Cliente.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Destinatario.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Domicilio.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Estatu.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Orden.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Mappings\Paquete.hbm.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Practica.Web.dll.config
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Practica.Web.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Practica.Web.pdb
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\csc.exe
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\csc.exe.config
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\csc.rsp
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\csi.exe
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\csi.exe.config
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\csi.rsp
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Console.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\vbc.exe
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\vbc.exe.config
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\vbc.rsp
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Antlr3.Runtime.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Iesi.Collections.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\log4net.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\MySql.Data.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Newtonsoft.Json.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\NHibernate.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Practica.Nucleo.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Helpers.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Mvc.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Optimization.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Razor.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.WebPages.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\WebGrease.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Google.Protobuf.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Practica.Nucleo.pdb
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\MySql.Data.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Helpers.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Mvc.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Optimization.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.Razor.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.WebPages.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Newtonsoft.Json.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\obj\Debug\Practica.Web.csprojAssemblyReference.cache
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CoreCompileInputs.cache
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\obj\Debug\Practica.Web.csproj.CopyComplete
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\obj\Debug\Practica.Web.dll
+C:\Users\Omar Osuna\Desktop\ProyectoCRUD-NET\Practica\Practica.Web\obj\Debug\Practica.Web.pdb

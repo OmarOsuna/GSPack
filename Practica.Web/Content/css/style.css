@@ -1,0 +1,135 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.navbar {
+	background: #286090;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand {
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+
+.navbar-default .navbar-nav li a {
+	color: #ffffff;
+}
+
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
+	color: #f9cb2e;
+}
+
+
+#home {
+	background: url(/Content/img/banner.jpg) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover; 
+	
+}
+
+.landing-text {
+	flex: 0 0 80%;
+  	max-width: 80%;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.landing-text h1 {
+	color: white;
+	font-size: 500%;
+	font-weight: 700;
+}
+
+.landing-text h3 {
+	color: white;
+}
+
+.padding-nosotros {
+	padding: 150px 0;
+}
+
+
+.padding-envios {
+	padding: 30px 0;
+}
+
+input {
+  border-radius: 36px;
+  border-color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  width: 50%;
+  height: 60px;
+}
+
+.img-nosotros {
+	width: 100%;
+
+}
+
+.img-servicio {
+	width: 60%;
+	margin-left: auto;
+    margin-right: auto;
+   
+}
+#fixed {
+    background: url(/Content/img/haz-logisitica.jpg) no-repeat center center fixed;
+    display: table;
+    height: 20%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+
+footer {
+	width: 100%;
+	background-color: #286090;
+	padding: 5% 5% 10% 5%;
+	color: #FFF;
+}
+
+
+
+.icon {
+	max-width: 200px;
+}
+
+@media (max-width: 768px){
+	.landing-text h1 {
+		font-size: 300%;
+	}	
+}
+
+@media (max-width: 400px){
+	.landing-text h1 {
+		font-size: 200%;
+	}
+}
+
+.acerca-nosotros{
+	background-color: #f9cb2e;
+}
+
+.acerca-servicio{
+	background-color: #FFF;
+}
+
+.encabezado {
+	font-size: 30px;
+	text-align: center;	
+}
+
+.encabezado-servicio {
+	font-size: 20px;
+	text-align: center;
+
+}
+
