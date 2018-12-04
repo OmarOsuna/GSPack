@@ -173,9 +173,12 @@ function marcarPuntos(id) {
                     this.setZoom(6);
                     google.maps.event.removeListener(boundsListener);
                 });
+                google.maps.event.trigger(map, "resize");
             }
         });
     }
+
+    
 
 }
 
