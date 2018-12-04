@@ -93,7 +93,6 @@ namespace Practica.Web.Controllers
             return Json(u, JsonRequestBehavior.AllowGet);
         }
 
-        [ValidarSession(Roles = new Perfil[] { Perfil.ADMINISTRADOR })]
         public ActionResult ObtenerTodos()
         {
             try
